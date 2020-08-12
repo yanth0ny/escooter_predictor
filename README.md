@@ -66,9 +66,13 @@ XGboost
 ## Files:
 
 eda.ipynb			: Exploratory Data Analysis (EDA) of this dataset
+
 main.py				: The first file executed by run.sh. User will be ask to select a few options.
+
 model_training.py	: main.py will execute this program for model training process. 
+
 requirements.txt	: packages required
+
 Readme.md			: This file.
 
 
